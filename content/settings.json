@@ -3,7 +3,7 @@
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Elijah W. - Dallas, TX",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "Elijah's · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
@@ -19,9 +19,8 @@
     "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "About Me", "url": "/#about" },
+        { "label": "My Projects", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
