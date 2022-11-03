@@ -1,0 +1,73 @@
+{
+  "interests": [
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React.JS",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C/C++",
+      "image": {
+        "src": "../../images/nail-polish.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML/CSS",
+      "image": {
+        "src": "../../images/medium.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/mobile-phone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CompTIA Security+",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CCNA",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+    
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

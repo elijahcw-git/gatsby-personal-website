@@ -1,0 +1,46 @@
+{
+  "name": "gatsby-starter-portfolio-minimal-theme",
+  "version": "1.0.0",
+  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^4.24.6",
+    "gatsby-link": "^4.24.1",
+    "gatsby-react-router-scroll": "^5.24.0",
+    "gatsby-script": "^1.9.0",
+    "gatsby-theme-portfolio-minimal": "^3.5.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "license": "0BSD",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ]
+}

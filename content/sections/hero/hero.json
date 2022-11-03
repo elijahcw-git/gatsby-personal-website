@@ -1,0 +1,21 @@
+{
+  "intro": "Hello Everyone!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "My Name is Elijah Walker",
+  "subtitle": {
+    "prefix": "I am a Navy veteran who taught myself full-stack development",
+    "suffix": "."
+  },
+  "description": "This is my personal website. It contains links to my Github, Linkedin, and my resume. Thank you for stopping by!",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
