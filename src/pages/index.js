@@ -15,11 +15,6 @@ export default function IndexPage() {
             <Seo title="Elijah W. - Dallas, TX" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
-                {/* <ArticlesSection
-                    sectionId="articles"
-                    heading="Latest Articles"
-                    sources={["Medium"]}
-                /> */}
                 <AboutSection sectionId="about" heading="A Quick Bio!" />
                 <InterestsSection
                     sectionId="details"

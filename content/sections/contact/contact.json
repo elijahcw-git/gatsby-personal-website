@@ -1,10 +1,10 @@
 {
   "name": "I'd love to hear from you! Send me an email at: ",
   "email": "WalkerElijahC@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/fishing.jpg",
+    "alt": "Elijah Thumbnail"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],

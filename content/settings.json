@@ -4,19 +4,19 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Elijah W. - Dallas, TX",
     "titleTemplate": "Elijah's · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "",
     "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "",
+    "bio": "",
     "social": {
       "github": "https://github.com/elijahcw-git",
-      "medium": "https://konstantinmuenster.medium.com",
+      "medium": "",
       "linkedin": "https://www.linkedin.com/in/elijah-walker-98a080254/",
       "mail": "mailto:walkerelijahc@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Elijah's Portfolio" },
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },
@@ -29,8 +29,8 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "" },
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {

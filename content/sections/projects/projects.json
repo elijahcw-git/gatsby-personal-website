@@ -2,47 +2,59 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "React.JS, Axios, RESTful APIs, HTML and CSS",
+      "title": "Star Wars Character Search API",
+      "description": "This app is used to search for the details of your favorite Star Wars characters. It is designed to be response with React.JS and the Axios library to make HTTP GET request to swapi.dev. You are able to scroll through every page for new characters, or search for them by name.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/swapiTN.png",
+        "alt": "Star Wars API",
+        "linkTo": "https://star-wars-api-ecw.herokuapp.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/elijahcw-git/star-wars-api"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "React.JS, HTML AND CSS",
+      "title": "Simple React Expense Tracker",
+      "description": "This is a simple and easy to use expense tracker designed in React.JS. It allows a user to pick a date, cost, location, and purchase description and add it to a list of expenses.",
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/expensetrackerPW.jpg",
+        "alt": "Expense-tracker",
+        "linkTo": "https://ew-expense-tracker.herokuapp.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/elijahcw-git/expense-tracker"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Vanilla JS, HTML and CSS",
+      "title": "Javascript Calculator",
+      "description": "This is an application designed in Vanilla JS to mimic all of the basic functionality of a standard calculator. It supports basic operations, and is able to store and recall memory. Don't be fooled by its simplicity. This project contains very complex logic to function properly and took quite some time to complete",
+      "image": {
+        "src": "../../images/calc1.png",
+        "alt": "Calculator",
+        "linkTo": "https://elijahcw-git.github.io/calculator-SDMM/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/elijahcw-git"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Check out my Github",
+    "url": "https://github.com/elijahcw-git"
   }
 }

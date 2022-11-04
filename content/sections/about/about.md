@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/Selfie.png"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Selfie"
 ---
 
 Guten Tag, and thank you for stopping by!

@@ -3,63 +3,63 @@
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "React.JS",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "C/C++",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/c.png",
         "alt": ""
       }
     },
     {
-      "label": "HTML/CSS",
+      "label": "Microcontrollers",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/energy-system.png",
         "alt": ""
       }
     },
     {
       "label": "Git",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/merge.png",
         "alt": ""
       }
     },
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/sql.png",
         "alt": ""
       }
     },
     {
       "label": "CompTIA Security+",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/securityplus-logo.jpg",
         "alt": ""
       }
     },
     {
       "label": "CCNA",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/cisco.png",
         "alt": ""
       }
     }
